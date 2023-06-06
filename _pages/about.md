@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinxia Zhang"
+title: "Jinxia Zhang 张金霞"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Zhang Jinxia, ​​Associate Professor, PhD Advisor, Zhishan Young Scholar of Southeast University. Research interests include deep learning, multi-modal pre-training, computer vision, defect detection, etc. Published more than 30 academic papers in international academic journals and international conferences, including TII, PR, TMM and other top journals. Guiding the undergraduate graduation project to win the school and hospital excellence. She is currently a communication member of the Pattern Recognition and Machine Intelligence Committee of the Chinese Society of Automation, a member of the Pattern Recognition Committee of the Jiangsu Artificial Intelligence Society, and a member of the Jiangsu Society of Automation. Served as a reviewer for Pattern Recognition, Neurocomputing and other publications, and served as ACPR 2019 PC member, IscIDE2019 PC member, etc.
 
-A data-driven personal website
+Background
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2019-Now Associate Professor at Southeast University, Nanjing, China
+2016 - 2019   Lecturer at Southeast University, Nanjing, China
+2012 - 2014   Visiting Scholar at Harvard Medical School, USA
+2015          Ph.D. (Pattern Recognition and Intelligent System), Nanjing University of Science and Technology.
 
 
