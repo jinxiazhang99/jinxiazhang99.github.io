@@ -15,7 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Publications
 ======
 * Jingzheng Deng, Jinxia Zhang* et al, RGB-D salient object ranking based on depth stach and truth stack for complex indoor scenes, Pattern Recognition (1区)，accepted
 * Jinxia Zhang, Yu Shen,Jiacheng Jiang,Shixiong Fang,Liping Chen,Tingting Yan,Zuoyong Li,Kanjian Zhang, Weili Guo, Haikun Wei. Automatic detection of defective solar cells in electroluminescence images via global similarity and concatenated saliency guided network, IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS (1区), 2022.DOI:10.1109/TII.2022.3211088
