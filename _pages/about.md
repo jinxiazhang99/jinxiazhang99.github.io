@@ -12,12 +12,9 @@ Zhang Jinxia, ​​Associate Professor, PhD Advisor, Zhishan Young Scholar of S
 
 Background
 ======
-2019-Now Associate Professor at Southeast University, Nanjing, China
-
-2016 - 2019   Lecturer at Southeast University, Nanjing, China
-
-2012 - 2014   Visiting Scholar at Harvard Medical School, USA
-
-2015          Ph.D. (Pattern Recognition and Intelligent System), Nanjing University of Science and Technology.
+* 2019-Now      Associate Professor at Southeast University, Nanjing, China
+* 2016 - 2019   Lecturer at Southeast University, Nanjing, China
+* 2012 - 2014   Visiting Scholar at Harvard Medical School, USA
+* 2015          Ph.D. (Pattern Recognition and Intelligent System), Nanjing University of Science and Technology.
 
 
