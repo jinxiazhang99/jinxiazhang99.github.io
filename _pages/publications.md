@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Jingzheng Deng, Jinxia Zhang* et al, RGB-D salient object ranking based on depth stach and truth stack for complex indoor scenes, Pattern Recognition (1区) [paper](https://jinxiazhang99.github.io/files/PR-RGB-D salient object ranking.pdf)[code](https://github.com/mirrordeng/RGB-D-salient-object-ranking) [dataset](https://github.com/mirrordeng/RGB-D-salient-object-ranking)
+* Jingzheng Deng, Jinxia Zhang* et al, RGB-D salient object ranking based on depth stach and truth stack for complex indoor scenes, Pattern Recognition (1区) [paper](https://jinxiazhang99.github.io/files/PR-RGB-D salient object ranking.pdf)   [code](https://github.com/mirrordeng/RGB-D-salient-object-ranking)   [dataset](https://github.com/mirrordeng/RGB-D-salient-object-ranking)
 * Jinxia Zhang, Yu Shen,Jiacheng Jiang,Shixiong Fang,Liping Chen,Tingting Yan,Zuoyong Li,Kanjian Zhang, Weili Guo, Haikun Wei. Automatic detection of defective solar cells in electroluminescence images via global similarity and concatenated saliency guided network, IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS (1区), 2022.DOI:10.1109/TII.2022.3211088 [paper](https://jinxiazhang99.github.io/files/TII_Automatic_Detection_of_Defective_Solar_Cells.pdf)
 * Yu Shen, He, Z., Xu, Z., Wang, Y., Li, C., Jinxia Zhang*, Wei, H.* . Modeling of photovoltaic modules under common shading conditions. Energy( 1区), 256, 124618，2022. 已检索WOS:000834159800009
 * Yu Shen, Tao Fan, Guangzhi Lai, Zhixiong Na, Hu Liu, Ziyao Wang, Yiye Wang, Yiping Jiao, Xinyi Chen, Zhouwei Lou, Jinxia Zhang*, Kanjian Zhang, Haikun Wei*, Modified U-Net based photovoltaic array extraction from complex scene in aerial infrared thermal imagery. Solar Energy(2区), 240:90-103, 2022 已检索WOS:000809727300004
