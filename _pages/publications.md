@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-* Jingzheng Deng, Jinxia Zhang* et al, RGB-D salient object ranking based on depth stach and truth stack for complex indoor scenes, Pattern Recognition (1区) [code](https://github.com/mirrordeng/RGB-D-salient-object-ranking) [dataset](https://github.com/mirrordeng/RGB-D-salient-object-ranking)
+* Jingzheng Deng, Jinxia Zhang* et al, RGB-D salient object ranking based on depth stach and truth stack for complex indoor scenes, Pattern Recognition (1区) [paper](https://jinxiazhang99.github.io/files/PR-RGB-D salient object ranking.pdf)[code](https://github.com/mirrordeng/RGB-D-salient-object-ranking) [dataset](https://github.com/mirrordeng/RGB-D-salient-object-ranking)
 * Jinxia Zhang, Yu Shen,Jiacheng Jiang,Shixiong Fang,Liping Chen,Tingting Yan,Zuoyong Li,Kanjian Zhang, Weili Guo, Haikun Wei. Automatic detection of defective solar cells in electroluminescence images via global similarity and concatenated saliency guided network, IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS (1区), 2022.DOI:10.1109/TII.2022.3211088 [paper](https://jinxiazhang99.github.io/files/TII_Automatic_Detection_of_Defective_Solar_Cells.pdf)
 * Yu Shen, He, Z., Xu, Z., Wang, Y., Li, C., Jinxia Zhang*, Wei, H.* . Modeling of photovoltaic modules under common shading conditions. Energy( 1区), 256, 124618，2022. 已检索WOS:000834159800009
 * Yu Shen, Tao Fan, Guangzhi Lai, Zhixiong Na, Hu Liu, Ziyao Wang, Yiye Wang, Yiping Jiao, Xinyi Chen, Zhouwei Lou, Jinxia Zhang*, Kanjian Zhang, Haikun Wei*, Modified U-Net based photovoltaic array extraction from complex scene in aerial infrared thermal imagery. Solar Energy(2区), 240:90-103, 2022 已检索WOS:000809727300004
 * Yu Shen, Zhen Xu, Yiye Wang, Chenxi Li, Peizhen Peng, Jinxia Zhang*, Kanjian Zhang, Haikun Wei*, Temperature Estimation of Partial Shaded Photovoltaic  Modules Using a Multi-physics Model, Journal of Photovoltaics(2区), 2022
 * Qinghua Ren, Shijian Lu, Jinxia Zhang, Renjie Hu. Salient object detection by fusing local and global contexts. IEEE Transactions on Multimedia(1区), PP(99):1-1, 2020.
-* Jinxia Zhang, Krista A. Ehinger, Haikun Wei, Kanjian Zhang, Jingyu Yang. A novel graph-based optimization framework for salient object detection.Pattern Recognition(1区), 64: 39-50, 2017.  WOS: 000392682400004. 
+* Jinxia Zhang, Krista A. Ehinger, Haikun Wei, Kanjian Zhang, Jingyu Yang. A novel graph-based optimization framework for salient object detection.Pattern Recognition(1区), 64: 39-50, 2017.  WOS: 000392682400004. [paper]
 * Jinxia Zhang, Shixiong Fang, Haifeng Zhao, Guang-Hai Liu, Haikun Wei, Lihuan Chen, Kanjian Zhang. Multiple Gestalt principles-based graph for salient region detection.Journal of Electronic Imaging, 27(5), 051227 1-9, 2018. WOS: 000443279700026.
 * Jinxia Zhang, Xue Gong, Daryl Fougnie, Jeremy Wolfe. How humans react to changing rewards during visual foraging.Attention Perception & Psychophysics. 79(8): 2299-2309, 2017. WOS: 000414337800005.
 * Jinxia Zhang, Shixiong Fang, Krista A. Ehinger, Weili Guo, Wankou Yang, Haikun Wei. Probabilistic Hypergraph Optimization for Salient Object Detection. P368-378,ISciDE2017. WOS:000441466300032. 
