@@ -11,23 +11,23 @@ We are a dynamic group of graduate and undergraduate students. Currently, I am l
 
 PhD Students
 ======
-* Ziai Zhou
+* Ziai Zhou（周自爱，博一）
 
 Graduate Students
 ======
-* Xinchao Zhu
-* Xinyi Chen
-* Yin Yuan
-* Jiale Huang
-* Yunyi Cao
-* Caohan Zhong
-* Yang Hu
-* Zechao Zhan
-* Ying He
+* Xinchao Zhu（朱鑫超，研三）
+* Xinyi Chen（陈欣一，研三）
+* Yin Yuan（袁茵，研三）
+* Jiale Huang（黄嘉乐，研二）
+* Yunyi Cao（曹云依，研二）
+* Xiaohan Zhong（仲晓涵，研二）
+* Yang Hu（胡杨，研一）
+* Zechao Zhan（占泽超，研一）
+* Ying He（贺莹，研一）
 
 Alumni
 ======
-* Jingzheng Deng ()
-* Xinyan Lu ()
-* Jiacheng Jiang ()
+* Jingzheng Deng (邓京政，理想汽车)
+* Xinyan Lu (陆馨妍，理想汽车)
+* Jiacheng Jiang (蒋嘉程，华泰证券)
   
