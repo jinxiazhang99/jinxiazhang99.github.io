@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* Xinyue Lei, Jinxia Zhang*, et cl. Knowledge Distillation Based on Fast Normalization Attention and Auxiliary Multi-Label Recognition for Continual Photovoltaic Defect Segmentation, 
+Renewable Energy (Q1 top一区), 2025, Accepted.
+* Ziai Zhou, Jinxia Zhang*, et cl. Defective Electroluminescence Image Generation for Data
+Imbalance in Solar Cell Defect Inspection, Journal of Photovoltaics, 2025, Accepted.
 * Shenghao Dong, Jinxia Zhang*, Yu Shen, Dehong Gao. Referring Solar Cell Defect Segmentation in Electroluminescence Images. IEEE Transactions ON Industrial Informatics (Q1 top一区), 2025, Accepted.
 * Jinxia Zhang, Min Huang, Xinchao Zhu, Haikun Wei, Shixiong Fang and Kanjian Zhang, DICO: Distance-weighted Contrast and Instance Correlation for Salient Object Ranking, Neurocomputing, 2025, Accepted
 * Jiale Huang, Dehong Gao, Jinxia Zhang*, et al. FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training[C]//ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE,2025.(CCF-B)
