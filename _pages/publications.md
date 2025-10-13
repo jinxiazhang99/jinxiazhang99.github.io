@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * Xinyue Lei, Jinxia Zhang*, et cl. Knowledge Distillation Based on Fast Normalization Attention and Auxiliary Multi-Label Recognition for Continual Photovoltaic Defect Segmentation, 
-Renewable Energy (Q1 top一区), 2025, Accepted. 
+Renewable Energy (Q1 top一区), 2025, Accepted. [code](https://github.com/jinxiazhang99/SegAdapt)
 * Ziai Zhou, Jinxia Zhang*, et cl. Defective Electroluminescence Image Generation for Data
 Imbalance in Solar Cell Defect Inspection, Journal of Photovoltaics, 2025, Accepted. [paper](https://jinxiazhang99.github.io/publications/JPV-Defective_Electroluminescence_Image_Generation_for_Data_Imbalance_in_Solar_Cell_Defect_Inspection)  [code](https://github.com/jinxiazhang99/Defective-EL-Image-Generation)
 * Shenghao Dong, Jinxia Zhang*, Yu Shen, Dehong Gao. Referring Solar Cell Defect Segmentation in Electroluminescence Images. IEEE Transactions ON Industrial Informatics (Q1 top一区), 2025, Accepted. [paper](https://jinxiazhang99.github.io/publications/TII_Referring_Solar_Cell_Defect_Segmentation_in_Electroluminescence_Images.pdf)  [code](https://github.com/jinxiazhang99/M2SegNet-Referring-Solar-Cell-Defect-Segmentation) [dataset](https://github.com/jinxiazhang99/M2SegNet-Referring-Solar-Cell-Defect-Segmentation)
