@@ -7,7 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-* Chaoyang Song, Jinxia Zhang*, Shixiong Fang, Liping Chen, A domain guided foundation framework for cell level defect segmentation in photovoltaic system, Solar Energy(Q2 top二区),  2025, Accepted. 
+* Ziai Zhou,  PV-MambaSeg: Geometry-Enhanced Vision Mamba with Omni-Local Scan for Photovoltaic Cell Defect Segmentation, IEEE Transactions on Industrial Informatics, 2026
+* Ziai Zhou, Chaoyang Song, Shixiong Fang, et al. DSDINet: Deep semantic decoupling and integration photovoltaic solar cell defect segmentation network[J]. Applied Energy, 2026, 419: 128093.
+* Shiyan Tong, Jinxia Zhang, et al. RefChess: Training-Free Contextual Search for Zero-Shot Referring Image Segmentation[C]//Forty-third International Conference on Machine Learning, 2026
+* Ying He, Zechao Zhan, Jinxia Zhang, et al. Attention-Enhanced Diffusion with LLM-Driven Prompts for Controllable Defect Generation in Photovoltaic cells[J]. IEEE Transactions on Automation Science and Engineering, 2026.
+* Min Huang, Jinxia Zhang, Shixiong Fang, Shenghao Dong, Ziai Zhou, Chaoyang Song, Yang Hu, 3D-Aware Semantic Alignment: Joint Global and Local Modeling for 3D Few-shot Anomaly Detection[C]//ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026: 5021-5025.
+* Hanyu Zhang, Yiming Zhou, Jinxia Zhang, Classifier-Centric Adaptive Framework for Open-Vocabulary Camouflaged Object Segmentation[C]//ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026: 10037-10041.
+* Fengyi Zhang, Shiyan Tong, Jinxia Zhang, Bin Wang, Junyi You, Rongqiu Lv, Jun Chen, Haibo Zeng. Dual Encryption Technology via Laser‐Induced Perovskite Multicolor and Textures Patterning With Artificial Intelligence Recognition, Laser & Photonics Reviews, 2026: e71341.
+* Jinxia Zhang, Zechao Zhan, Dehong Gao, Jiale Huang, Yang Hu, Xin Wang, TRAMDiff: Texture Retention fashion image editing with Attention enhancement and Mask prediction in Diffusion Model, IEEE Transactions on Multimedia, 2026. 
+* Chaoyang Song, Jinxia Zhang*, Shixiong Fang, Liping Chen, A domain guided foundation framework for cell level defect segmentation in photovoltaic system, Solar Energy(Q2 top二区, IF=7.188), 2026, 303: 114145.  
 * Xinyue Lei, Jinxia Zhang*, et cl. Knowledge Distillation Based on Fast Normalization Attention and Auxiliary Multi-Label Recognition for Continual Photovoltaic Defect Segmentation, 
 Renewable Energy (Q1 top一区), 2025, Accepted. [code](https://github.com/jinxiazhang99/SegAdapt)
 * Jinxia Zhang, Yin Yuan, Xuwen Zhu, Yang Hu, Kaihua Zhang*, Partitioned Observation Network for Camouflaged Object Detection, Pattern Recognition, 2025, Accepted
