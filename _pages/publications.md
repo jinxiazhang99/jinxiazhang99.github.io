@@ -1,48 +1,98 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+出发点Process reward is not only a learning objective but also an online control signal for multimodal state evolution.
 
-{% include base_path %}
+标题要不要改成：Visual State Refinement
+----------
+Industrial anomaly QA需要：
 
-* Ziai Zhou,  PV-MambaSeg: Geometry-Enhanced Vision Mamba with Omni-Local Scan for Photovoltaic Cell Defect Segmentation, IEEE Transactions on Industrial Informatics, 2026
-* Ziai Zhou, Chaoyang Song, Shixiong Fang, et al. DSDINet: Deep semantic decoupling and integration photovoltaic solar cell defect segmentation network[J]. Applied Energy, 2026, 419: 128093.
-* Shiyan Tong, Jinxia Zhang, et al. RefChess: Training-Free Contextual Search for Zero-Shot Referring Image Segmentation[C]//Forty-third International Conference on Machine Learning, 2026
-* Ying He, Zechao Zhan, Jinxia Zhang, et al. Attention-Enhanced Diffusion with LLM-Driven Prompts for Controllable Defect Generation in Photovoltaic cells[J]. IEEE Transactions on Automation Science and Engineering, 2026.
-* Min Huang, Jinxia Zhang, Shixiong Fang, Shenghao Dong, Ziai Zhou, Chaoyang Song, Yang Hu, 3D-Aware Semantic Alignment: Joint Global and Local Modeling for 3D Few-shot Anomaly Detection[C]//ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026: 5021-5025.
-* Hanyu Zhang, Yiming Zhou, Jinxia Zhang, Classifier-Centric Adaptive Framework for Open-Vocabulary Camouflaged Object Segmentation[C]//ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026: 10037-10041.
-* Fengyi Zhang, Shiyan Tong, Jinxia Zhang, Bin Wang, Junyi You, Rongqiu Lv, Jun Chen, Haibo Zeng. Dual Encryption Technology via Laser‐Induced Perovskite Multicolor and Textures Patterning With Artificial Intelligence Recognition, Laser & Photonics Reviews, 2026: e71341.
-* Jinxia Zhang, Zechao Zhan, Dehong Gao, Jiale Huang, Yang Hu, Xin Wang, TRAMDiff: Texture Retention fashion image editing with Attention enhancement and Mask prediction in Diffusion Model, IEEE Transactions on Multimedia, 2026. 
-* Chaoyang Song, Jinxia Zhang*, Shixiong Fang, Liping Chen, A domain guided foundation framework for cell level defect segmentation in photovoltaic system, Solar Energy(Q2 top二区, IF=7.188), 2026, 303: 114145.  
-* Xinyue Lei, Jinxia Zhang*, et cl. Knowledge Distillation Based on Fast Normalization Attention and Auxiliary Multi-Label Recognition for Continual Photovoltaic Defect Segmentation, 
-Renewable Energy (Q1 top一区), 2025, Accepted. [code](https://github.com/jinxiazhang99/SegAdapt)
-* Jinxia Zhang, Yin Yuan, Xuwen Zhu, Yang Hu, Kaihua Zhang*, Partitioned Observation Network for Camouflaged Object Detection, Pattern Recognition, 2025, Accepted
-* Ziai Zhou, Jinxia Zhang*, et cl. Defective Electroluminescence Image Generation for Data
-Imbalance in Solar Cell Defect Inspection, Journal of Photovoltaics, 2025, Accepted. [paper](https://jinxiazhang99.github.io/publications/JPV-Defective_Electroluminescence_Image_Generation_for_Data_Imbalance_in_Solar_Cell_Defect_Inspection)  [code](https://github.com/jinxiazhang99/Defective-EL-Image-Generation)
-* Shenghao Dong, Jinxia Zhang*, Yu Shen, Dehong Gao. Referring Solar Cell Defect Segmentation in Electroluminescence Images. IEEE Transactions ON Industrial Informatics (Q1 top一区), 2025, Accepted. [paper](https://jinxiazhang99.github.io/publications/TII_Referring_Solar_Cell_Defect_Segmentation_in_Electroluminescence_Images.pdf)  [code](https://github.com/jinxiazhang99/M2SegNet-Referring-Solar-Cell-Defect-Segmentation) [dataset](https://github.com/jinxiazhang99/M2SegNet-Referring-Solar-Cell-Defect-Segmentation)
-* Jinxia Zhang, Min Huang, Xinchao Zhu, Haikun Wei, Shixiong Fang and Kanjian Zhang, DICO: Distance-weighted Contrast and Instance Correlation for Salient Object Ranking, Neurocomputing, 2025, Accepted [paper](https://jinxiazhang99.github.io/publications/PR-DICO.pdf) [code](https://github.com/jinxiazhang99/DICO_salient_object_ranking)
-* Jiale Huang, Dehong Gao, Jinxia Zhang*, et al. FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training[C]//ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE,2025.(CCF-B)  [paper](https://jinxiazhang99.github.io/publications/ICASSP-FashionFAE_Fine-grained_Attributes_Enhanced_Fashion_Vision-Language_Pre-training.pdf)
-* Yang Hu, Jinxia Zhang*, Kaihua Zhang, et al. Shifting Spotlight for Co-supervision: A Simple yet Efficient Single-branch Network to See Through Camouflage[C]//ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE,2025.(CCF-B)  [paper](https://jinxiazhang99.github.io/publications/ICASSP-Shifting Spotlight for Co-supervision0.pdf)
-* Zechao Zhan, Dehong Gao, Jinxia Zhang*, et al. MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion[C]//ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE,2025.(CCF-B) [paper](https://jinxiazhang99.github.io/publications/ICASSP2025-MADiff.pdf)
-* Yeyuan Wang, Dehong Gao, Lei Yi, Linbo Jin, Jinxia Zhang, Libin Yang, Xiaoyan Cai, Enhancing Fine-Grained Vision-Language Pretraining with Negative Augmented Samples, AAAI, 2025 (CCF-A). [paper](https://jinxiazhang99.github.io/publications/AAAI-Enhancing Fine-Grained Vision-Language Pretraining with Negative Augmented Samples.pdf)
-* Yeyuan Wang, Dehong Gao, Bin Li, Rujiao Long, Lei Yi, Xiaoyan Cai, Libin Yang, Jinxia Zhang, Shanqing Yu, Qi Xuan. CoF: Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models, ICASSP, 2025. (CCF-B) [paper](https://jinxiazhang99.github.io/publications/ICASSP-CoF Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models.pdf)
-* Qingyu Lu, Liang Ding, Kanjian Zhang, Jinxia Zhang, Dacheng Tao. MQM-APE: Toward High-Quality Error Annotation Predictors with Automatic Post-Editing in LLM Translation Evaluators, The 31st International Conference on Computational Linguistics, 2025 (CCF-B). [paper](https://jinxiazhang99.github.io/publications/MQM-APE Toward High-Quality Error Annotation Predictors with Automatic Post-Editing in LLM Translation Evaluators.pdf)
-* Jinxia Zhang, Xinyi Chen, Haikun Wei, Kanjian Zhang, A lightweight network for photovoltaic cell defect detection in electroluminescence images based on neural architecture search and knowledge distillation, Applied Energy (Q1 top一区), 2024, 355, 122184. (CCF-A). [paper](https://jinxiazhang99.github.io/publications/Applied Energy.pdf) [code](https://github.com/jinxiazhang99/NAS_Distillation_PV_Detection)
-* Jinxia Zhang, Yu Shen,Jiacheng Jiang,Shixiong Fang,Liping Chen,Tingting Yan,Zuoyong Li,Kanjian Zhang, Weili Guo, Haikun Wei. Automatic detection of defective solar cells in electroluminescence images via global similarity and concatenated saliency guided network, IEEE Transactions ON Industrial Informatics (Q1 top一区), 2023, 19(6), 7335-7345.  [paper](https://jinxiazhang99.github.io/publications/TII_Automatic_Detection_of_Defective_Solar_Cells.pdf)
-* Jingzheng Deng, Jinxia Zhang* et al, RGB-D salient object ranking based on depth stach and truth stack for complex indoor scenes, Pattern Recognition (1区) [paper](https://jinxiazhang99.github.io/publications/PR-RGB-D salient object ranking.pdf)   [code](https://github.com/mirrordeng/RGB-D-salient-object-ranking)   [dataset](https://github.com/mirrordeng/RGB-D-salient-object-ranking)
-* Yu Shen, He, Z., Xu, Z., Wang, Y., Li, C., Jinxia Zhang*, Wei, H.* . Modeling of photovoltaic modules under common shading conditions. Energy( 1区), 256, 124618，2022. 已检索WOS:000834159800009 [paper](https://jinxiazhang99.github.io/publications/Energy-s2.0-S0360544222015213-main.pdf) 
-* Yu Shen, Tao Fan, Guangzhi Lai, Zhixiong Na, Hu Liu, Ziyao Wang, Yiye Wang, Yiping Jiao, Xinyi Chen, Zhouwei Lou, Jinxia Zhang*, Kanjian Zhang, Haikun Wei*, Modified U-Net based photovoltaic array extraction from complex scene in aerial infrared thermal imagery. Solar Energy(2区), 240:90-103, 2022 已检索WOS:000809727300004  [paper](https://jinxiazhang99.github.io/publications/Solar energy-s2.0-S0038092X22003474-main.pdf) 
-* Yu Shen, Zhen Xu, Yiye Wang, Chenxi Li, Peizhen Peng, Jinxia Zhang*, Kanjian Zhang, Haikun Wei*, Temperature Estimation of Partial Shaded Photovoltaic  Modules Using a Multi-physics Model, Journal of Photovoltaics(2区), 2022 [paper](https://jinxiazhang99.github.io/publications/JPV_Temperature_Estimation_of_Partially_Shaded_Photovoltaic_Modules_Using_a_Multiphysics_Model.pdf) 
-* Qinghua Ren, Shijian Lu, Jinxia Zhang, Renjie Hu. Salient object detection by fusing local and global contexts. IEEE Transactions on Multimedia(1区), PP(99):1-1, 2020.
-* Jinxia Zhang, Krista A. Ehinger, Haikun Wei, Kanjian Zhang, Jingyu Yang. A novel graph-based optimization framework for salient object detection.Pattern Recognition(1区), 64: 39-50, 2017.  WOS: 000392682400004. [paper](https://jinxiazhang99.github.io/publications/A novel graph-based optimization framework for salient object detection.pdf) 
-* Jinxia Zhang, Shixiong Fang, Haifeng Zhao, Guang-Hai Liu, Haikun Wei, Lihuan Chen, Kanjian Zhang. Multiple Gestalt principles-based graph for salient region detection.Journal of Electronic Imaging, 27(5), 051227 1-9, 2018. WOS: 000443279700026.
-* Jinxia Zhang, Xue Gong, Daryl Fougnie, Jeremy Wolfe. How humans react to changing rewards during visual foraging.Attention Perception & Psychophysics. 79(8): 2299-2309, 2017. WOS: 000414337800005.
-* Jinxia Zhang, Shixiong Fang, Krista A. Ehinger, Weili Guo, Wankou Yang, Haikun Wei. Probabilistic Hypergraph Optimization for Salient Object Detection. P368-378,ISciDE2017. WOS:000441466300032. 
-* Yu Shen, Xinyi Chen, Jinxia Zhang*, Liping Xie, Kanjian Zhang and Haikun Wei*, A Robust Automatic Method for Removing Projective Distortion of Photovoltaic Modules from Close Shot Images. PRCV, 2020
-* Wenjie Liu, Jinxia Zhang*, Haikun Wei*, Kanjian Zhang, Shixiong Fang, Liping Xie, Jian Ge. Short-term PV power prediction considering the influence of aerosol. EEMS, 2020
-* Jinxia Zhang, Xue Gong, Daryl Fougnie, Jeremy Wolfe. Using the past to anticipate the future in human foraging behavior.Vision Research, 111:66-74, 2015.WOS:000356027200007.
-* Jinxia Zhang, Jundi Ding, Jingyu Yang. Exploiting global rarity, local contrast and central bias for salient region learning. Neurocomputing(2区), 144:569-580, 2014. WOS:000341677800054. [paper](https://jinxiazhang99.github.io/publications/Exploiting globalrarity local contrast and central bias for salientregionlearning.pdf)
-* Z. Bylinskii*, E. DeGennaro*, R. Rajalingham*, H. Ruda*,Jinxia Zhang*, J.K. Tsotsos(The first 5 authors, listed alphabetically according to last name, contributed equally). Towards the quantitative evaluation of visual attention models,Vision Research, 116:258-268, 2015. WOS: 000364270400013.
-* Jinxia Zhang, Krista A. Ehinger, Jundi Ding, Jingyu Yang. A prior-based graph for salient object detection.ICIP , Paris, France, 27-30 October 2014, P1175-1178. WOS:000370063601069.
+不是识别，而是：
+
+evidence inspection。
+
+第二段
+
+现有MLLM问题：
+
+visual representation frozen after encoding。
+
+第三段
+
+现有解决：
+
+RL
+PRM
+visual refinement
+
+但三者割裂。
+
+第四段
+
+提出：
+
+RILO：
+
+reward → visual state evolution
+
+这样逻辑更强。
+-------------
+如果补强“为什么过程奖励能够指导视觉重新观察”，这篇论文的定位可以从：
+
+工业异常QA增强方法
+
+提升到：
+
+MLLM过程反馈驱动多模态状态演化方法
+--------------
+为什么 reward score 可以代表视觉证据缺失？
+reward来自：
+answer correctness
+lexical evidence compatibility
+cross-field consistency
+这些更多评价：
+
+“语言输出是否合理”
+
+而不是：
+
+“视觉token哪里需要增强”。
+
+Reviewer 可能攻击：
+
+You assume linguistic reward can identify visual deficiency. Why?
+
+----------
+不要过度强调：
+
+adaptive visual reasoning
+
+建议强调：
+
+trajectory-conditioned visual representation refinement
+
+或者：
+
+reward-guided visual evidence refinement
+
+更准确。
+------------------
+缺少：
+
+token-level evidence analysis
+
+建议增加：
+
+例如：
+
+modulation weight vs defect region overlap
+
+---------------
+你的创新来自：
+
+PRM
+visual refinement
+
+应该增加：
+
+视觉推理类：
+
+iterative visual reasoning
+latent visual token methods
