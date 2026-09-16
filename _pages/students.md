@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-We are a dynamic group of graduate and undergraduate students. Currently, I am looking for PhD and masters (2-3 per year) and talent undergraduate students to work with deep learning, multi-modal pre-training, computer vision, defect detection. If you are with background or strong interest in deep learning, computer vision, multi-modal pre-training, signal processing, please feel free to contact me.
+We are a dynamic group of graduate and undergraduate students. Currently, I am looking for PhD and masters (2-3 per year) and talent undergraduate students to work with deep learning, multi-modal learning, computer vision, defect detection. Strong hands‑on programming capability is highly preferred. If you are with relevant background or strong interest in deep learning, computer vision, multi-modal learning, signal processing, please feel free to contact me.
 
 PhD Students
 ======
