@@ -17,19 +17,23 @@ PhD Students
 
 Graduate Students
 ======
-* Yang Hu（胡杨，研三）
-* Zechao Zhan（占泽超，研三）
-* Ying He（贺莹，研三）
-* Shenghao Dong （董胜豪，研二）
-* Xinyue Lei（雷馨月，研二）
-* Min Huang （黄敏，研二）
-* Xuwen Zhu （朱许文，研二）
-* Shiyan Tong (童仕延，研一)
-* Yingying Wang （王莹莹，研一）
-* Sirui Liu （刘思睿，研一）
+* Shenghao Dong （董胜豪）
+* Xinyue Lei（雷馨月）
+* Min Huang （黄敏）
+* Xuwen Zhu （朱许文）
+* Shiyan Tong (童仕延)
+* Yingying Wang （王莹莹）
+* Han Xiao （肖涵）
+* Rong Wang （王荣）
+* Yao Chen （陈垚）
+* Aopeng Liu （刘奥鹏）
+
 
 Alumni
 ======
+* Yang Hu（胡杨，阿里）
+* Zechao Zhan（占泽超，阿里）
+* Ying He（贺莹，keep）
 * Jiale Huang（黄嘉乐，美团）
 * Yunyi Cao（曹云依，美团）
 * Xiaohan Zhong（仲晓涵，江苏银行）
